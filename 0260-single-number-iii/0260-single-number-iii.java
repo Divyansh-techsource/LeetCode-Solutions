@@ -1,14 +1,16 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        Map<Integer, Integer> frequencyMap = new HashMap<>();
+        int xor2no = 0;
         for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+            xor2no ^= num;
         }
+        int lowestBit = xor2no & (-xor2no);
         int[] result = new int[2];
-        int index = 0;
-        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
-            if (entry.getValue() == 1) {
-                result[index++] = entry.getKey();
+        for (int num : nums) {
+            if ((lowestBit & num) == 0) {
+                result[0] ^= num;
+            } else {
+                result[1] ^= num;
             }
         }
         return result;
