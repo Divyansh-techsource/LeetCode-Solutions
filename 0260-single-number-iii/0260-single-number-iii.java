@@ -1,21 +1,14 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        int n = nums.length;
+        Map<Integer, Integer> frequencyMap = new HashMap<>();
+        for (int num : nums) {
+            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+        }
         int[] result = new int[2];
         int index = 0;
-        for (int i = 0; i < n; i++) {
-            boolean found = false;
-            for (int j = 0; j < n; j++) {
-                if (i != j && nums[i] == nums[j]) {
-                    found = true;
-                    break;
-                }
-            }
-            if (!found) {
-                result[index++] = nums[i];
-                if (index == 2) {
-                    break;
-                }
+        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
+            if (entry.getValue() == 1) {
+                result[index++] = entry.getKey();
             }
         }
         return result;
