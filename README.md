@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
