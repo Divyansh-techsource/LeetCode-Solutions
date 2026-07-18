@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0973-k-closest-points-to-origin](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
