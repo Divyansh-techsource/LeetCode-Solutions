@@ -1,4 +1,13 @@
 class Solution {
+    private static int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
     public int findGCD(int[] nums) {
         int max = nums[0], min = nums[0];
         for (int i = 1; i < nums.length; i++) {
@@ -7,12 +16,6 @@ class Solution {
             if (min > nums[i])
                 min = nums[i];
         }
-        int res = 1;
-        for (int i = 1; i <= max; i++) {
-            if (max % i == 0 && min % i == 0) {
-                res = i;
-            }
-        }
-        return res;
+        return gcd(max, min);
     }
 }
