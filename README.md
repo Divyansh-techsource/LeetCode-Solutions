@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
