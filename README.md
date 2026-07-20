@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
