@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
