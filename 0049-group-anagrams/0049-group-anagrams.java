@@ -1,13 +1,28 @@
 class Solution {
-    public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String, List<String>> map = new HashMap<>();
-        for (String s : strs) {
-            char[] ch = s.toCharArray();
-            Arrays.sort(ch);
-            String key = new String(ch);
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(s);
+    private static String getHash(String s) {
+        StringBuilder hash = new StringBuilder();
+        int[] freq = new int[26];
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
-        return new ArrayList<>(map.values());
+        for (int i = 0; i < 26; i++) {
+            hash.append(freq[i]);
+            hash.append("#");
+        }
+        return hash.toString();
+    }
+
+    public List<List<String>> groupAnagrams(String[] strs) {
+        List<List<String>> res = new ArrayList<>();
+        Map<String, Integer> map = new HashMap<>();
+        for (int i = 0; i < strs.length; i++) {
+            String key = getHash(strs[i]);
+            if (!map.containsKey(key)) {
+                map.put(key, res.size());
+                res.add(new ArrayList<>());
+            }
+            res.get(map.get(key)).add(strs[i]);
+        }
+        return res;
     }
 }
