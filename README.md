@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0057-insert-interval) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
