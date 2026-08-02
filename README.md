@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Merge Sort
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
