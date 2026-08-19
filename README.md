@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
