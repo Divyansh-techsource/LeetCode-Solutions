@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
@@ -332,4 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
