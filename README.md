@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Game Theory
 |  |
 | ------- |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -342,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
