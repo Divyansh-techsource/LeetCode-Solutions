@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Linked List
@@ -402,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
