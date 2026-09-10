@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -385,10 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Brute-Force Search
 |  |
@@ -414,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
