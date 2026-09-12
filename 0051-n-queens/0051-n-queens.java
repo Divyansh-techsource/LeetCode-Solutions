@@ -1,60 +1,48 @@
 class Solution {
-    static int N;
-    static int[][] board;
-    static List<List<String>> ans;
+    public List<List<String>> solveNQueens(int n) {
+        List<List<String>> ans = new ArrayList<>();
+        char[][] board = new char[n][n];
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(board[i], '.');
+        }
+        backtrack(board, ans, n, 0);
+        return ans;
+    }
 
-    static boolean isSafe(int row, int col) {
+    public void backtrack(char[][] board, List<List<String>> ans, int n, int currRow) {
+        if (currRow == n) {
+            List<String> list = new ArrayList<>();
+            for (char[] r : board) {
+                list.add(new String(r));
+            }
+            ans.add(list);
+            return;
+        }
+        for (int col = 0; col < n; col++) {
+            if (isValid(board, currRow, col, n)) {
+                board[currRow][col] = 'Q';
+                backtrack(board, ans, n, currRow + 1);
+                board[currRow][col] = '.';
+            }
+        }
+    }
+
+    public boolean isValid(char[][] board, int row, int col, int n) {
         for (int i = 0; i < row; i++) {
-            if (board[i][col] == 1) {
+            if (board[i][col] == 'Q') {
                 return false;
             }
         }
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-
-            if (board[i][j] == 1) {
+            if (board[i][j] == 'Q') {
                 return false;
             }
         }
-        for (int i = row - 1, j = col + 1; i >= 0 && j < N; i--, j++) {
-
-            if (board[i][j] == 1) {
+        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
+            if (board[i][j] == 'Q') {
                 return false;
             }
         }
         return true;
-    }
-
-    static void solve(int row) {
-        if (row == N) {
-            List<String> solution = new ArrayList<>();
-            for (int i = 0; i < N; i++) {
-                StringBuilder sb = new StringBuilder();
-                for (int j = 0; j < N; j++) {
-                    if (board[i][j] == 1) {
-                        sb.append('Q');
-                    } else {
-                        sb.append('.');
-                    }
-                }
-                solution.add(sb.toString());
-            }
-            ans.add(solution);
-            return;
-        }
-        for (int col = 0; col < N; col++) {
-            if (isSafe(row, col)) {
-                board[row][col] = 1;
-                solve(row + 1);
-                board[row][col] = 0;
-            }
-        }
-    }
-
-    public List<List<String>> solveNQueens(int n) {
-        N = n;
-        board = new int[N][N];
-        ans = new ArrayList<>();
-        solve(0);
-        return ans;
     }
 }
