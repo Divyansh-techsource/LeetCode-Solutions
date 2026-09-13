@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
