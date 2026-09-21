@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
