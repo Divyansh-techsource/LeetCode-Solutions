@@ -1,24 +1,30 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Arrays.sort(nums);
-        for (int index = 0; index < nums.length / 2; ++index) {
-            int temp = nums[index];
-            nums[index] = nums[nums.length - 1 - index];
-            nums[nums.length - 1 - index] = temp;
+        long firstMax = Long.MIN_VALUE;
+        long secondMax = Long.MIN_VALUE;
+        long thirdMax = Long.MIN_VALUE;
+
+        for (int num : nums) {
+            if (firstMax == num || secondMax == num || thirdMax == num) {
+                continue;
+            }
+            if (firstMax <= num) {
+                thirdMax = secondMax;
+                secondMax = firstMax;
+                firstMax = num;
+            } else if (secondMax <= num) {
+                thirdMax = secondMax;
+                secondMax = num;
+            } else if (thirdMax <= num) {
+                thirdMax = num;
+            }
+        }
+        if (thirdMax == Long.MIN_VALUE) {
+            int ans = (int) firstMax;
+            return ans;
         }
 
-        int elemCounted = 1;
-        int prevElem = nums[0];
-
-        for (int index = 1; index < nums.length; ++index) {
-            if (nums[index] != prevElem) {
-                elemCounted += 1;
-                prevElem = nums[index];
-            }
-            if (elemCounted == 3) {
-                return nums[index];
-            }
-        }
-        return nums[0];
+        int ans = (int) thirdMax;
+        return ans;
     }
 }
