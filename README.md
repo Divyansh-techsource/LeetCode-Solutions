@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
