@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
