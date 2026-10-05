@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Quicksort
 |  |
@@ -495,4 +499,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
