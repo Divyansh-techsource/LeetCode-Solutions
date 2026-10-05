@@ -3,16 +3,13 @@ class Solution {
         if (x < 0) {
             return false;
         }
-
+        int original = x;
         int reverse = 0;
-        int xcopy = x;
-
         while (x > 0) {
-            reverse = (reverse * 10) + (x % 10);
+            int digit = x % 10;
+            reverse = reverse * 10 + digit;
             x /= 10;
         }
-
-        return reverse == xcopy;
+        return original == reverse;
     }
-
 }
