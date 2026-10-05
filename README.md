@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Interactive
 |  |
 | ------- |
