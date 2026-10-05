@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0877-stone-game) |
