@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyansh-techsource/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
