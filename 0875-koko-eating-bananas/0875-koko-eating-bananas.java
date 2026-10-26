@@ -9,7 +9,6 @@ class Solution {
         int ans = high;
         while (low <= high) {
             int mid = low + (high - low) / 2;
-
             if (canFinish(piles, h, mid)) {
                 ans = mid;
                 high = mid - 1;
